@@ -199,9 +199,9 @@ function Testimonial() {
   ];
 
   return (
-    <div className="bg-gray-50 p-10 text-center  mx-auto pt-32">
+    <div className="bg-[#f9f7f2] p-10 text-center  mx-auto pt-32">
       <h2 className="text-3xl font-bold text-blue-900 mb-2">What Our Customers Say</h2>
-      <p className="text-gray-600 mb-10  mx-auto">
+      <p className="text-gray-600 md:mb-32  mx-auto">
         Hear from buyers and sellers who have successfully used GlobalLand to achieve their land ownership goals.
       </p>
 

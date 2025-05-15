@@ -6,6 +6,8 @@ import Packages from './Packages'
 import FAQ from './Faq'
 import Testimonial from './Testimonial'
 import TagLine from './TagLine'
+import Contact from './Contact'
+import Footer from '../Share/Footer'
 // import Review from './Review'
 
 const Home = () => {
@@ -19,8 +21,9 @@ const Home = () => {
         <FAQ/>
         <Testimonial/>
         <TagLine/>
-        {/* <Review/> */}
-       {/* <TestimonialSlider /> */}
+        <Contact/>
+      
+    
     </div>
   )
 }

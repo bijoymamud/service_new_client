@@ -199,7 +199,7 @@ const FAQ = () => {
 
   return (
     <section className="bg-[#f9f7f2]">
-      <div className="p-10 bg-[#1C3988] rounded-lg container mx-auto">
+      <div className="p-20 bg-[#1C3988] rounded-lg container mx-auto">
         <div className="container mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-2">
             Frequently Asked Questions
